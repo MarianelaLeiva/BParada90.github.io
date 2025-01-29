@@ -1,0 +1,51 @@
+.art img{
+    width: 200px;
+    height: 200%;
+    border-radius: 50%;
+    margin-bottom: 12px;
+    display: flex;
+}
+
+body{
+    background-color: lightblue;
+   
+}
+
+
+
+nav{
+    display: flex;
+    justify-content: center;
+
+}
+
+span{
+    font-weight: bold;
+}
+
+.art{
+    background-color: white;
+/*    border: 1px solid black;*/
+    padding: 12px;
+    width: 60%;
+    margin: auto;
+}
+
+fieldset{
+    margin-bottom: 12px;
+}
+
+legend{
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.portafolio1{
+    display: flex;
+    justify-content: center;
+}
+
+
+

@@ -1,0 +1,9 @@
+img{
+    size: 20px;
+}
+
+.volver{
+    display: flex;
+    justify-content: center;
+}
+
