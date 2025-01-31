@@ -47,3 +47,14 @@ legend{
     justify-content: center;
 }
 
+img{
+    size: 20px;
+}
+
+.volver{
+    display: flex;
+    justify-content: center;
+}
+
+
+
